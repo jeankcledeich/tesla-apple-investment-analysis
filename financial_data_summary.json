@@ -1,0 +1,16 @@
+{
+  "companies": [
+    {
+      "company": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "market_cap": "1,234.56B",
+      "pe_ratio": "85.42"
+    },
+    {
+      "company": "Apple Inc.",
+      "ticker": "AAPL",
+      "market_cap": "3,456.78B",
+      "pe_ratio": "38.76"
+    }
+  ]
+}
